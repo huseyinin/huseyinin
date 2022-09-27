@@ -1,5 +1,5 @@
 ### Hello World 👋
-![Image of Yaktocat](https://octodex.github.com/images/minion.png)
+![Minion](https://octodex.github.com/images/minion.png)
 
 <!--
 **huseyinin/huseyinin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
