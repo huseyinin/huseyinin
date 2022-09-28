@@ -1,5 +1,5 @@
 ### Hello World 👋
-<img src="https://octodex.github.com/images/minion.png" width="500">
+<img src="https://octodex.github.com/images/minion.png" width="500" align="right">
 
 <!--
 **huseyinin/huseyinin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
